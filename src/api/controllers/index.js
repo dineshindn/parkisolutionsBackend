@@ -1,0 +1,1 @@
+module.exports.jobController = require("./job.controller") 
